@@ -34,3 +34,5 @@ function nombre(){
 }
 
 nombre();
+
+console.log(`Hola ${miNombre}, Como estas?`);
