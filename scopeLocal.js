@@ -1,3 +1,7 @@
+/**
+ * Es el alcance de las variables dependiendo de donde las declaremos y desde donde las mandemos a llamar
+ */
+
 function ScopeLocal(){
     var miApellido = "Flores";
     return miApellido;
